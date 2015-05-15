@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleTwoActivityApp</string>
+    <string name="first_activity_label">This is the first activity</string>
+    <string name="second_activity_label">This is the second activity</string>
+    <string name="go_button_label">Go to the second activity</string>
+    <string name="back_button_label">Back to the first activity</string>
+    <string name="URL">http://images.mobilesitelinkexchange.com/wp-content/uploads/2011/12/320x50mobile_standard1.jpg</string>
+</resources>
